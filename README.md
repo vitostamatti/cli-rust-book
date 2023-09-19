@@ -1,1 +1,1 @@
-# rust-cli
+# CLI Rust Book
